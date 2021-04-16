@@ -1,0 +1,38 @@
+CS4076 Check list
+For C1
+•	C++ references done
+•	Pointers done
+•	Inheritance done
+•	Destructors done
+•	Memory management
+•	Header files (inclusion guards) done
+•	Arrays and pointers done
+•	Friendship done
+•	Basic pre-processor directives done
+•	Private, public, protected
+For B1
+•	Definition of template functions
+•	Operator overloading
+•	Abstract classes
+•	Cop constructors (Deep, shallow copy)
+•	Bit structures
+•	Advanced pre-processor directives
+•	C++ object construction sequence done
+•	Initializer list done
+For A1
+•	Virtual functions
+•	Definition of template classes
+•	Multiple inheritance
+•	Namespaces
+•	Programmer defined exceptions
+•	Unions
+•	Dynamic_cast
+
+to do today
+change imgs
+link + description() + .png
+start creating items
+start creeating locked doors
+text
+
+create item in item constructor

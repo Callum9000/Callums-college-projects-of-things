@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/2ndFloor.jpg</file>
+        <file>img/attic.jpg</file>
+        <file>img/balconey.jpg</file>
+        <file>img/basement.jpg</file>
+        <file>img/bathroom.jpg</file>
+        <file>img/cupboard.jpg</file>
+        <file>img/DiningRoom.jpg</file>
+        <file>img/door.jpg</file>
+        <file>img/enSuite.jpg</file>
+        <file>img/entrance.jpg</file>
+        <file>img/kitchen.jpg</file>
+        <file>img/lib.jpg</file>
+        <file>img/map.jpg</file>
+        <file>img/master.jpg</file>
+        <file>img/smallBed.jpg</file>
+        <file>img/study.jpg</file>
+        <file>img/black.jpg</file>
+        <file>img/Red.jpg</file>
+        <file>img/slot.png</file>
+        <file>img/key.png</file>
+        <file>img/frame.png</file>
+        <file>img/kkey.png</file>
+        <file>img/celllar.jpg</file>
+        <file>img/base.jpg</file>
+        <file>img/dmd.png</file>
+        <file>img/fancykey.png</file>
+        <file>img/gold.png</file>
+        <file>img/goldkey.png</file>
+        <file>img/map.png</file>
+        <file>img/knife.png</file>
+        <file>img/book.png</file>
+    </qresource>
+</RCC>
