@@ -1,6 +1,6 @@
 #ifndef PLAYER_H_
 #define PLAYER_H_
-#include "Zork.h"
+#include "zork.h"
 #include "item.h"
 #include <string>
 using namespace std;

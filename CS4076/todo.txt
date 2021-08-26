@@ -1,38 +1,48 @@
-CS4076 Check list
-For C1
-•	C++ references done
-•	Pointers done
-•	Inheritance done
-•	Destructors done
-•	Memory management
-•	Header files (inclusion guards) done
-•	Arrays and pointers done
-•	Friendship done
-•	Basic pre-processor directives done
-•	Private, public, protected
-For B1
-•	Definition of template functions
-•	Operator overloading
-•	Abstract classes
-•	Cop constructors (Deep, shallow copy)
-•	Bit structures
-•	Advanced pre-processor directives
-•	C++ object construction sequence done
-•	Initializer list done
-For A1
-•	Virtual functions
-•	Definition of template classes
-•	Multiple inheritance
-•	Namespaces
-•	Programmer defined exceptions
-•	Unions
-•	Dynamic_cast
+Callum Lynch(19261004) CS4076 project
+location of all requirments:
+B1:
+Definition of
+ template functions(text.cpp)
+·
+ Operator overloading (text.cpp)
+·
+ Abstract classes( inheritance.h)
+·
+ Copy constructors (deep , shallow copy) (
+·
+ Bit structures (text.cpp)
+·
+ Advanced pre-processor
+ directives(texti.h)
+·
+ C++ Object
+ Construction Sequence (texti.h)
+·
+ Initializer List(mainWindow.cpp)
+·
 
-to do today
-change imgs
-link + description() + .png
-start creating items
-start creeating locked doors
-text
+C1:
 
-create item in item constructor
+·
+ C++ References (MainWindow.h
+·
+ Pointers(zork.h)
+·
+ Inheritance(texti inherences inheritance)
+·
+ Destructors (zork.cpp)
+·
+ Memory management(zork.cpp)
+·
+ Header files (inclusion guards)
+·
+ Arrays and pointers (zork.h)
+·
+ Friendship
+·
+ Basic pre-processor directives
+·
+ Global variables(do not use int mainwindow.h
+·
+ Private, Public,(all h files)
+ Protected (inheritance.h)

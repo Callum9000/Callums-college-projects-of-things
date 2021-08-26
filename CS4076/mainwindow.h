@@ -1,13 +1,13 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-
+//C++ refrences
 #include <QPixmap>
 #include <QMainWindow>
 #include <QString>
 #include <QRadioButton>
 #include "zork.h"
 #include "player.h"
-
+#include "text.h"
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
@@ -19,7 +19,8 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
-
+    //global variable
+    int doNotUse;
 private slots:
 
     void on_up_clicked();
@@ -36,16 +37,24 @@ private slots:
 
 
 
-//    void on_inv1_toggled();
+
+
+
+
+
+
+    void on_end_clicked();
 
 private:
     Zork* Game;
+    Text* Dialog;
     Ui::MainWindow *ui;
     Room* currentRoom;
     void createRooms();
     void display();
     void inv();
     void Displayinv();
+
     vector <QRadioButton*> buttons;
 
     friend vector <Item> Room::getItem();

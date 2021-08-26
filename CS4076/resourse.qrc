@@ -16,20 +16,15 @@
         <file>img/master.jpg</file>
         <file>img/smallBed.jpg</file>
         <file>img/study.jpg</file>
-        <file>img/black.jpg</file>
-        <file>img/Red.jpg</file>
         <file>img/slot.png</file>
-        <file>img/key.png</file>
-        <file>img/frame.png</file>
         <file>img/kkey.png</file>
         <file>img/celllar.jpg</file>
         <file>img/base.jpg</file>
         <file>img/dmd.png</file>
-        <file>img/fancykey.png</file>
         <file>img/gold.png</file>
-        <file>img/goldkey.png</file>
         <file>img/map.png</file>
-        <file>img/knife.png</file>
         <file>img/book.png</file>
+        <file>img/pot.png</file>
+        <file>img/end.jpg</file>
     </qresource>
 </RCC>
